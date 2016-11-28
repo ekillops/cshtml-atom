@@ -1,3 +1,5 @@
+In Config.cson
+
 # cshtml-atom
 
 "*":
